@@ -1,7 +1,7 @@
 :root {
   --primary-color: #FF0000;
   --secondary-color: #F00FF00;
-  --tertiary-color: #0000FF;
+ 
 --primary-font: 'Roboto', sans-serif;
 
 
@@ -11,7 +11,7 @@
 
   body {
       margin: 0;
-    background-color: #9e0c0c;
+    background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -31,5 +31,5 @@
     font-weight: 300;
     line-height: 1.5;
     color: #434455;
-    background-color: #6c0bdc;
+    background-color: #FFFFFF;
     }
