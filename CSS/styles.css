@@ -1,9 +1,10 @@
 :root {
- 
   --primary-color: #FF0000;
-
   --secondary-color: #F00FF00;
-  
+  --tertiary-color: #0000FF;
+--primary-font: 'Roboto', sans-serif;
+
+
 }
 
 
