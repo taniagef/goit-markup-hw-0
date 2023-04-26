@@ -1,8 +1,8 @@
 :root {
   --primary-color: #FF0000;
   --secondary-color: #F00FF00;
- 
---primary-font: 'Roboto', sans-serif;
+ --primary-font: 'Roboto', sans-serif
+ --secodary-font: 'Roboto', sans-serif
 
 
 }
