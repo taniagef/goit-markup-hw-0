@@ -1,61 +1,67 @@
 :root {
-    --primary-color: #434455;
-    --secondary-color: #FFFFFF;
-    --tertiary-color: #F5F5F5;
-    --quaternary-color: #000000;
-    --quinary-color: #FFFFFF;
-    --senary-color: #FFFFFF;
-    --septenary-color: #FFFFFF;
-    --octonary-color: #FFFFFF;
-    --nonary-color: #FFFFFF;
-    --denary-color: #FFFFFF;
-    --primary-font: 'Roboto', sans-serif;
-    --secondary-font: 'Roboto', sans-serif;
-    --tertiary-font: 'Roboto', sans-serif;
-    --quaternary-font: 'Roboto', sans-serif;
-    --quinary-font: 'Roboto', sans-serif;
-    --senary-font: 'Roboto', sans-serif;
-    --septenary-font: 'Roboto', sans-serif;
-    --octonary-font: 'Roboto', sans-serif;
-    --nonary-font: 'Roboto', sans-serif;
-    --denary-font: 'Roboto', sans-serif;
-    --primary-font-size: 16px;
-    --secondary-font-size: 16px;
-    --tertiary-font-size: 16px;
-    --quaternary-font-size: 16px;
-    --quinary-font-size: 16px;
-    --senary-font-size: 16px;
-    --septenary-font-size: 16px;
-    --octonary-font-size: 16px;
-    --nonary-font-size: 16px;
-    --denary-font-size: 16px;
-    --primary-font-weight: 400;
-    --secondary-font-weight: 400;
-    --tertiary-font-weight: 400;
-    --quaternary-font-weight: 400;
-    --quinary-font-weight: 400;
-    --senary-font-weight: 400;
-    --septenary-font-weight: 400;
-    --octonary-font-weight: 400;
-    --nonary-font-weight: 400;
-    --denary-font-weight: 400;
-    --primary-line-height: 1.5;
-    --secondary-line-height: 1.5;
-    --tertiary-line-height: 1.5;
-    --quaternary-line-height: 1.5;
-    --quinary-line-height: 1.5;
-    --sen
-body {
+--primary-color: #434455;
+  --secondary-color: #FFFFFF;
+  --tertiary-color: #F5F5F5;
+  --quaternary-color: #000000;
+  --quinary-color: #FFFFFF;
+  --senary-color: #FFFFFF;
+  --septenary-color: #FFFFFF;
+  --octonary-color: #FFFFFF;
+  --nonary-color: #FFFFFF;
+  --denary-color: #FFFFFF;
+  --primary-font: 'Roboto', sans-serif;
+  --secondary-font: 'Roboto', sans-serif;
+  --tertiary-font: 'Roboto', sans-serif;
+  --quaternary-font: 'Roboto', sans-serif;
+  --quinary-font: 'Roboto', sans-serif;
+  --senary-font: 'Roboto', sans-serif;
+  --septenary-font: 'Roboto', sans-serif;
+  --octonary-font: 'Roboto', sans-serif;
+  --nonary-font: 'Roboto', sans-serif;
+  --denary-font: 'Roboto', sans-serif;
+  --primary-font-size: 16px;
+  --secondary-font-size: 16px;
+  --tertiary-font-size: 16px;
+  --quaternary-font-size: 16px;
+  --quinary-font-size: 16px;
+  --senary-font-size: 16px;
+  --septenary-font-size: 16px;
+  --octonary-font-size: 16px;
+  --nonary-font-size: 16px;
+  --denary-font-size: 16px;
+  --primary-font-weight: 400;
+  --secondary-font-weight: 400;
+  --tertiary-font-weight: 400;
+  --quaternary-font-weight: 400;
+  --quinary-font-weight: 400;
+  --senary-font-weight: 400;
+  --septenary-font-weight: 400;
+  --octonary-font-weight: 400;
+  --nonary-font-weight: 400;
+  --denary-font-weight: 400;
+  --primary-line-height: 1.5;
+  --secondary-line-height: 1.5;
+  --tertiary-line-height: 1.5;
+  --quaternary-line-height: 1.5;
+  --quinary-line-height: 1.5;
+  --senary-line-height: 1.5;
+}
 
-      margin: 0;
+
+  body {
+
+    margin: 0;
     background-color: #FFFFFF;
-    color:  #434455; 
+    color: #434455;
     font-family: 'Roboto', sans-serif;
-      font-size: 16px;
-
- 
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+   }
+  
+  
       
-} 
+
  main {
     margin: 0 auto;
     width: 100%;
@@ -71,4 +77,6 @@ body {
     background-color: #FFFFFF;
     color:  #434455; 
     font-family: 'Roboto', sans-serif;
-      font-size: 16px;  
+      font-size: 16px; 
+      font-weight: 400;
+    }
