@@ -1,16 +1,13 @@
 :root {
---primary-color: #434455;
-  --
-  --primary-font: 'Roboto', sans-serif;
-  --
-}
+ 
+  --primary-color: #F9A826;
+
+  --secondary-color: #F9A826;}
+
 
 
   body {
-    h
-
-
-    margin: 0;
+      margin: 0;
     background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
