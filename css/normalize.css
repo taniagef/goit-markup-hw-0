@@ -9,14 +9,12 @@
   --octonary-color: #000000;
   --nonary-color: #808080;
   --denary-color: #C0C0C0;
+  
 } 
 
-h2 {
-  color: #FF0000;
-}
+
 
   body {
-      margin: 0;
     background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
