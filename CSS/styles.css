@@ -9,14 +9,11 @@
   --octonary-color: #000000;
   --nonary-color: #808080;
   --denary-color: #C0C0C0;
-  --primary-font: 'Roboto', sans-serif;
-  --secondary-font: 'Raleway', sans-serif;
-  --tertiary-font: 'Montserrat', sans-serif;
-  --quaternary-font: 'Lato', sans-serif;
-  
 } 
 
-
+h2 {
+  color: #FF0000;
+}
 
   body {
       margin: 0;
@@ -32,6 +29,7 @@
       
 
  main {
+  
      margin-top: 80px;
     margin-bottom: 80px;
     padding: 0 15px;
