@@ -88,18 +88,26 @@ body{
     }
   /* first section */
     main {
-    margin-top: 80px;
-    margin-bottom: 80px;
-    padding: 0 15px;
+      background-color:#FFFFFF; ;
     text-align: center;
     font-size: 1.2rem;
     font-weight: 300;
     line-height: 1.5;
-    color: #434455;
-    background-color: #FFFFFF;
-    list-style: none;
-    }
+    color: #434454
     
+    }
+   second-menu-title{
+      font-size: 56px;
+      font-weight: 300;
+      line-height: 1.07;
+      color: #ffffff;
+      background-color: #2e2f42;
+      list-style: none;
+      text-decoration: none;
+      letter-spacing: 0,02em;
+      
+
+    }
 
   
     span {
