@@ -9,22 +9,16 @@
   --octonary-color: #000000;
   --nonary-color: #808080;
   --denary-color: #C0C0C0;
-  
-} 
- body
-  {
+  } 
+ body{
     background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-}
-  
-  
-     main 
-     {
-  
+  }
+    main {
      margin-top: 80px;
     margin-bottom: 80px;
     padding: 0 15px;
