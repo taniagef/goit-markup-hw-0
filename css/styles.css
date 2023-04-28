@@ -22,14 +22,17 @@
    
     .nav {
       font-family: "Raleway", sans-serif;
-      font-size: 18 px;
+      font-size: 18px;
       font-weight: 800;
       line-height: 1.17;
       color: #4d5ae5;
       letter-spacing:0,03;
       text-align: left;
-    
-  }
+      text-decoration: none;
+      letter-spacing: 0,03em;
+      text-transform: uppercase;
+}
+
   html{
     font-size: 62.5%;
   }
