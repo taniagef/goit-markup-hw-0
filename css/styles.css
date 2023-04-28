@@ -20,7 +20,7 @@
     cursor: pointer;
   }
   .container-logo{
-    
+    text-decoration: none ;
       font-family: "Raleway", sans-serif;
       font-weight: 800;
       font-size: 18px;
@@ -28,9 +28,9 @@
       text-decoration: none;
    
   }
-  bottom-logo 
-    
-    
+  .container-logo:hover{
+    color: #4d5ae5;
+    text-decoration: none;
   }
   
 body{
