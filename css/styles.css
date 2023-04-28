@@ -118,12 +118,12 @@ body{
       font-size: 18px;
       font-weight: 800;
       line-height: 1.17;
-      letter-spacing: 0.02em;
+      letter-spacing: 0.03em;
       color: #FFFFFF;
       background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
-      text-transform: capitalize;
+      text-transform: uppercase;
       text-align: center;
     }
 /*  */
@@ -146,15 +146,17 @@ body{
     {
       font-size: 20px;
       font-weight: 500;
-      line-height: 1.2;
-      color:#2e2f42;
-      background-color: #FFFFFF;
+      line-height: 1.17;
+      font-family: "Raleway", sans-serif;
+      color:#F4F4FD;
+      background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
       text-align: center;
-      letter-spacing: 0.02em;
-      text-transform: capitalize;
+      letter-spacing: 0.03em;
+      text-transform:uppercase ;
     }
+    
 .promotion-slogan {
 font-size: 16px;
 line-height: 1,5;
