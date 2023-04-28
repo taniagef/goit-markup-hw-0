@@ -141,8 +141,29 @@ body{
 
 
     }
+    /* web-title-bottom */
+    .second-bottom-logo
+    {
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 1.2;
+      color:#2e2f42;
+      background-color: #FFFFFF;
+      list-style: none;
+      text-decoration: none;
+      text-align: center;
+      letter-spacing: 0.02em;
+      text-transform: capitalize;
+    }
+.promotion-slogan {
+font-size: 16px;
+line-height: 1,5;
+color: #434455;
 
-    .link {
+}
+
+  
+  .link{
       font-size: 1.2rem;
       font-weight: 300;
       line-height: 1.5;
