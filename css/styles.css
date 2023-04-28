@@ -11,11 +11,11 @@
     list-style: none;
   }
 
-  link{
+  .link{
     text-decoration: none;
   }
 
-  button{
+  .button{
     font-family: inherit;
     cursor: pointer;
   }
@@ -25,18 +25,16 @@
       font-size: 18px;
       font-weight: 800;
       line-height: 1.17;
-      color: #4d5ae5;
-      letter-spacing:0,03;
+      color:#4d5ae5;
+      letter-spacing: 0,03;
       text-align: left;
       text-decoration: none;
-      letter-spacing: 0,03em;
+      letter-spacing: 0.03em;
       text-transform: uppercase;
 }
 
-  html{
-    font-size: 62.5%;
-  }
-  .order button{
+  
+   button {
     font-size: 1.4rem;
     font-weight: 400;
     line-height: 1.5;
@@ -47,6 +45,7 @@
     padding: 0.5rem 1rem;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
+
   }
   
 body{
@@ -58,6 +57,7 @@ body{
     line-height: 1.5;
     margin: 0;
     padding: 0;
+  
   
     }
   
@@ -71,5 +71,6 @@ body{
     line-height: 1.5;
     color: #434455;
     background-color: #FFFFFF;
+    
 
     }
