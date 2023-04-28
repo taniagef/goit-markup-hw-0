@@ -57,7 +57,7 @@
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    color: #ffffff;
+    color:#FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
     text-decoration: none;
@@ -78,6 +78,17 @@ body{
   
   
     }
+    .second-menu-title {
+      font-size: 56px;
+      font-weight: 300;
+      line-height: 1.07;
+      letter-spacing: 0.02em;
+      color:#FFFFFF;
+      background-color:#2e2f42;
+      list-style: none;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
     
   /* main section */
     main {
@@ -88,19 +99,10 @@ body{
     line-height: 1.5;
     color: #434454
     
-    /* title */
     
   } 
-   second-menu-title{
-      font-size: 56px;
-      font-weight: 300;
-      line-height: 1.07;
-      color: #ffffff;
-      background-color: #2e2f42;
-      list-style: none;
-      text-decoration: none;
-      letter-spacing: 0,02em;
-      }
+
+   
 /* bottom logo */
    .bottom-logo {
       font-size: 1.2rem;
@@ -126,7 +128,7 @@ body{
    
     .link:hover {
       color: #404bbf ;
-      background-color: ;
+      background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
     }
@@ -175,15 +177,6 @@ body{
       text-decoration: none;
       text-transform: uppercase;
     }
-    .title {
-      font-size: 56px;
-      font-weight: 300;
-      line-height: 1.07;
-      color: #ffffff;
-      background-color: #2e2f42;
-      list-style: none;
-      text-decoration: none;
-      letter-spacing: 0,02em;
-    }
+    
     
     
