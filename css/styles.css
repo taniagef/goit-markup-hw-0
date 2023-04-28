@@ -19,7 +19,7 @@
     font-family: inherit;
     cursor: pointer;
   }
-   
+   /* logo */
     .nav {
       font-family: "Raleway", sans-serif;
       font-size: 18px;
@@ -39,28 +39,20 @@
     list-style: none;
     text-decoration: none;
   }
-    .logo {
-      font-size: 18px;
-      font-weight: 800;
-      line-height: 1.17;
-      letter-spacing: 0.03em;
-      color: #4d5ae5;
-      text-decoration: none;
-      
-    }
+    
+    
 .first-menu-item {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
+  background-color: #FFFFFF;
   color:#2e2f42;
   letter-spacing: 0,02em;
   text-decoration: none;
   list-style: none;
 
 }
-
-  
-   button {
+  button {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -86,7 +78,7 @@ body{
   
   
     }
-  /* first section */
+  /* main section */
     main {
       background-color:#FFFFFF; ;
     text-align: center;
@@ -95,7 +87,9 @@ body{
     line-height: 1.5;
     color: #434454
     
-    }
+    /* title */
+    
+  } 
    second-menu-title{
       font-size: 56px;
       font-weight: 300;
@@ -105,12 +99,9 @@ body{
       list-style: none;
       text-decoration: none;
       letter-spacing: 0,02em;
-      
-
-    }
-
-  
-    span {
+      }
+/* botto; logo */
+   .bottom-logo {
       font-size: 1.2rem;
       font-weight: 300;
       line-height: 1.5;
@@ -170,6 +161,7 @@ body{
       list-style: none;
       text-decoration: none;
     }
+
     .bottom-logo {
       font-family: "Raleway", sans-serif;
       font-size: 18px;
