@@ -33,6 +33,7 @@
       text-transform: uppercase;
 }
 
+
   
    button {
     font-size: 1.4rem;
@@ -73,4 +74,11 @@ body{
     background-color: #FFFFFF;
     
 
+    }
+    span {
+      font-size: 1.2rem;
+      font-weight: 300;
+      line-height: 1.5;
+      color: #;
+      background-color: #FFFFFF;
     }
