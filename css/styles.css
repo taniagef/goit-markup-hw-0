@@ -113,15 +113,30 @@ body{
 
    
 /* bottom logo */
-   .bottom-logo {
-      font-size: 1.2rem;
-      font-weight: 300;
-      line-height: 1.5;
-      color:#2e2f42;
-      background-color: #FFFFFF;
+    .bottom-logo {
+      font-family: "Raleway", sans-serif;
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
+      color: #2e2f42;
+      background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
-
+      text-transform: uppercase;
+    }
+/*  */
+    .bottom-logo-link {
+      font-size: 36px;
+     line-height: 1.11;
+      color:#2e2f42;
+      background-color: #F4F4FD;
+      list-style: none;
+      text-decoration: none;
+      text-align: center;
+      letter-spacing: 0.02em;
+      text-transform: capitalize;
+      
 
     }
 
@@ -174,18 +189,7 @@ body{
       text-decoration: none;
     }
 
-    .bottom-logo {
-      font-family: "Raleway", sans-serif;
-      font-size: 18px;
-      font-weight: 800;
-      line-height: 1.17;
-      letter-spacing:0.03em; ;
-      color:#2e2f42;
-      background-color:#2e2f42;
-      list-style: none;
-      text-decoration: none;
-      text-transform: uppercase;
-    }
+    
     /* team photos */
     .team-menu {
       font-size: 36px;
@@ -196,6 +200,7 @@ body{
       text-decoration: none;
       letter-spacing: 0.02em;
       text-transform: capitalize;
+      text-align: center;
 
     }
     
