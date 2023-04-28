@@ -10,7 +10,12 @@
   --nonary-color: #808080;
   --denary-color: #C0C0C0;
   } 
- body{
+  ul{
+    list-style: none;
+  }
+ body
+  {
+  
     background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
