@@ -1,24 +1,28 @@
 :root {
-  --primary-color: #FF0000;
-  --secondary-color: #F00FF00;
-  --tertiary-color: #0000FF;
-  --quaternary-color: #FF00FF;
-  --quinary-color: #00FFFF;
-  --senary-color: #FFFF00;
-  --septenary-color: #FFFFFF;
-  --octonary-color: #000000;
-  --nonary-color: #808080;
-  --denary-color: #C0C0C0;
+ --main-font-family: "Roboto", sans-serif;
+  --secondary-font-family: "Raleway", sans-serif;
+  --primary-text-text-color-theme-dark: #FFFFFF;
+  --primary-text-text-color-theme-light: #303030;
+ --secondary-text-color-theme-dark: #9ba4bd;
+  --secondary-text-color-theme-light: #555555;
+  --accent-color:#fff6c00
   } 
-  ul{
+  .list{
     list-style: none;
   }
+
   link{
     text-decoration: none;
   }
+
   button{
+    font-family: inherit;
     cursor: pointer;
   }
+   *{
+    box-sizing: border-box;
+  }
+  
   
 body{
     background-color: #FFFFFF;
@@ -29,7 +33,7 @@ body{
     line-height: 1.5;
     margin: 0;
     padding: 0;
-
+  
     }
   
     main {
