@@ -134,7 +134,7 @@ body{
    
     .link:hover {
       color: #404bbf ;
-      background-color: #FFFFFF;
+      background-color: ;
       list-style: none;
       text-decoration: none;
     }
@@ -181,6 +181,16 @@ body{
       list-style: none;
       text-decoration: none;
       text-transform: uppercase;
+    }
+    .title {
+      font-size: 56px;
+      font-weight: 300;
+      line-height: 1.07;
+      color: #ffffff;
+      background-color: #2e2f42;
+      list-style: none;
+      text-decoration: none;
+      letter-spacing: 0,02em;
     }
     
     
