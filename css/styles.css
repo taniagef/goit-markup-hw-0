@@ -51,11 +51,9 @@
     line-height: 1.5;
     color: #ffffff;
     background-color: #4D5AE5;
-    border: 1px solid #303030;
-    border-radius: 4px;
-    padding: 0.5rem 1rem;
     cursor: pointer;
-    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    letter-spacing: 0.04em;
 
   }
   
@@ -115,6 +113,10 @@ body{
       text-decoration: none;
     }
     .button:hover
+    {
+      background-color: #404bbf ;
+      color: #FFFFFF;
+    }
     button:focus {
       background-color: #404BBF;
       color: #FFFFFF;
