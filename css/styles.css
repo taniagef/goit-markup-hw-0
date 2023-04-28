@@ -13,9 +13,16 @@
   ul{
     list-style: none;
   }
+  link{
+    text-decoration: none;
+  }
+  button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
  body
   {
-  
     background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
