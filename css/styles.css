@@ -45,24 +45,69 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  background-color: #FFFFFF;
-  color:#2e2f42;
+  color: #2e2f42;
   letter-spacing: 0,02em;
   text-decoration: none;
   list-style: none;
 
 }
-  button {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color:#FFFFFF;
-    background-color: #4D5AE5;
-    cursor: pointer;
-    text-decoration: none;
-    letter-spacing: 0.04em;
+.first-menu-item:hover  {
+  color: #404bbf;
+}
+.first-menu-item:focus  {
+  color: #404bbf;
+}
 
+.second-menu-item {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color:#404bbf;
+  letter-spacing: 0,02em;
+  text-decoration: none;
+  list-style: none;
+}
+.second-menu-item:hover  {
+  color: #404bbf;
+}
+.second-menu-item:focus  {
+  color: #404bbf;
+}
+
+
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.17;
+    color:#4d5ae5;
+    letter-spacing: 0,03em;
+    text-align: left;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    list-style: none;
+    text-decoration: none;
+  }
+  .logo:hover {
+    color:  #4d5ae5;
+    list-style: none;
+    text-decoration: none;
+  }
+
+ .second-upper-logo
+  {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.17;
+    font-family: "Raleway", sans-serif;
+    color: #2e2f42;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform:uppercase ;
   }
   
 body{
@@ -124,8 +169,8 @@ body{
       list-style: none;
       text-decoration: none;
       text-transform: uppercase;
-      text-align: center;
-      text-align: center
+      text-align: left;
+     
       ;
     }
 /* WEB */
@@ -138,7 +183,7 @@ body{
       background-color: #F4F4FD;
       list-style: none;
       text-decoration: none;
-      text-align: center;
+      text-align: left;
       letter-spacing: 0.03em;
       text-transform:uppercase ;
 
@@ -155,7 +200,7 @@ body{
       background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
-      text-align: center;
+      text-align:left;
       letter-spacing: 0.03em;
       text-transform:uppercase ;
     }
@@ -231,6 +276,7 @@ color: #434455;
       text-align: center;
 
     }
+    .first-menu-item
     
     
     
