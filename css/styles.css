@@ -290,18 +290,6 @@ color: #434455;
 
     }
     
-    .role
-    {
-      font-size: 16px;
-      line-height: 1.5;
-      letter-spacing: 0,02em;
-      color:#434455;
-      list-style: none;
-      text-decoration: none;
-      text-transform: capitalize;
-      text-align: center;
-    }
-    
     .list
     {
       list-style: none;
@@ -320,12 +308,14 @@ color: #434455;
       font-size: 20px;
       line-height: 1.2;
       letter-spacing: 0,02em;
+      font-weight: 500;
       color:#2e2f42;
       background-color: #FFFFFF;
       list-style: none;
       text-decoration: none;
       text-transform: capitalize;
       text-align: center;
+      }
     
 
     
