@@ -302,6 +302,30 @@ color: #434455;
       text-align: center;
     }
     
+    .list
+    {
+      list-style: none;
+      
+    }
+    .role
+    {
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0,02em;
+      color:#434455;
+     background-color: #FFFFFF;
+     }
+
+     .name {
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0,02em;
+      color:#2e2f42;
+      background-color: #FFFFFF;
+      list-style: none;
+      text-decoration: none;
+      text-transform: capitalize;
+      text-align: center;
     
 
     
