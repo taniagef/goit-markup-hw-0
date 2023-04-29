@@ -278,31 +278,18 @@ color: #434455;
     
     /* team photos */
     .team-menu {
-      font-size: 20px;
-      line-height: 1.2;
-      font-weight: 500;
-      letter-spacing: 0,02em;
-      color:#2e2f42;
-      background-color: #FFFFFF;
-      list-style: none;
-      text-decoration: none;
-      text-transform: capitalize;
-      text-align: center;
-
-    }
-    .skills-menu-section {
-      font-size: 36px;
+      font-size: 36x;
       line-height: 1.11;
+      letter-spacing: 0,02em;
       color:#2e2f42;
       background-color: #F4F4FD;
       list-style: none;
       text-decoration: none;
-      letter-spacing: 0.02em;
       text-transform: capitalize;
       text-align: center;
 
-
     }
+    
     .role
     {
       font-size: 16px;
