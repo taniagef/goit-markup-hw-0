@@ -18,6 +18,13 @@
   .button{
     font-family: inherit;
     cursor: pointer;
+    background-color:#4D5AE5 ;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+color: #FFFFFF;
+letter-spacing: 0,04em;
+line-height: 1,5;
   }
    /* logo */
     .nav {
@@ -153,7 +160,101 @@
   .menu-item:focus  {
    text-decoration: none;
   }
- 
+ .contact-menu
+  {
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+   
+  }
+.menu-item
+  {
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+  }
+  .menu-item {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2e2f42;
+    letter-spacing: 0,02em;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+  }
+  .menu-item:hover  {
+    color: #404bbf;
+  }
+  .menu-item:focus  {
+    color: #404bbf;
+  }
+  .menu-item:active  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+
+  .menu-item:hover  {
+    color: #404bbf;
+  }
+  .menu-item:focus  {
+   text-decoration: none;
+  }
+  .menu-item:active  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+
+  .menu-item:hover  {
+    color: #404bbf;
+  }
+
     
     
 .first-menu-item {
