@@ -36,6 +36,9 @@ line-height: 1,5;
   .order-button:hover{
     background-color: #404bbf;
   }
+  .order-button:focus{
+    background-color: #404bbf;
+  }
 
    /* logo */
     .nav {
