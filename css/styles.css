@@ -50,8 +50,98 @@
     list-style: none;
     text-transform: capitalize;
   }
+  .logo
+  {
+    list-style: none;
+    text-decoration: none;
+  }
+   .skills-menu {
+    text-decoration: none;
+    list-style: none;
+    text-transform: capitalize; 
+  }
 
+  .contact-menu
+  {
+    text-decoration: none;
+    list-style: none;
+    text-transform: capitalize; 
+  }
+  .menu-item {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2e2f42;
+    letter-spacing: 0,02em;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+  }
+  .menu-item:hover  {
+    color: #404bbf;
+  }
+  .menu-item:focus  {
+    color: #404bbf;
+  }
+  .menu-item:active  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
+  .menu-item:link  {
+    color: #404bbf;
+  }
+  .menu-item:visited  {
+    color: #404bbf;
+  }
 
+  .menu-item:hover  {
+    color: #404bbf;
+  }
+ 
     
     
 .first-menu-item {
@@ -86,7 +176,10 @@
 .second-menu-item:focus  {
   color: #404bbf;
 }
-
+menu{
+  text-decoration: none;
+  list-style: none;
+}
 
 
 .logo {
@@ -168,6 +261,9 @@ body{
     
     
   } 
+  nav {
+    list-style: none;
+  }
 
    
 /* bottom logo */
@@ -298,8 +394,7 @@ color: #434455;
     .list
     {
       list-style: none;
-      
-    }
+      }
     .role
     {
       font-size: 16px;
