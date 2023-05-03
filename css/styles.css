@@ -82,7 +82,7 @@ line-height: 1,5;
   {
     font-size: 20px;
     letter-spacing: 0,02;
-    
+
     line-height: 1.2;
     font-weight: 500;
     text-decoration: none;
@@ -517,7 +517,7 @@ color: #434455;
       text-align: center;
     }
 
-    .list
+    .team-list
     {
       list-style: none;
       }
