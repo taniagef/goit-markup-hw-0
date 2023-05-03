@@ -35,7 +35,9 @@
        text-transform: uppercase;
        list-style: none;
      }
-  
+     nav {
+       list-style: none;
+     }
      .nav-menu {
        font-family: "Raleway", sans-serif;
        font-size: 16px;
@@ -53,6 +55,12 @@
        list-style: none;
        text-decoration: none;
      }
+             .logo {
+               color: #4d5ae5;
+               list-style: none;
+               text-decoration: none;
+             }
+
 /* main */
   .order-button{
     font-family: inherit;
@@ -71,7 +79,91 @@ line-height: 1,5;
   .order-button:focus{
     background-color: #404bbf;
   }
+ /* title second section */
+ .title-second-section {
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1.2;
+   color: #2e2f42;
+   letter-spacing: 0, 02em;
+   text-decoration: none;
+   list-style: none;
+   text-transform: capitalize;
+ }
 
+ .second-section-p {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 1.5;
+   color: #434455;
+   letter-spacing: 0, 02em;
+   text-decoration: none;
+   list-style: none;
+   text-transform: capitalize;
+ }
+
+ .skills-menu {
+   text-decoration: none;
+   list-style: none;
+   text-transform: capitalize;
+ }
+
+ .menu-prtflio {
+   text-decoration: none;
+   list-style: none;
+ }
+
+ .offers-menu-section {
+   font-size: 20px;
+   letter-spacing: 0, 02;
+   line-height: 1.2;
+   font-weight: 500;
+   text-decoration: none;
+   list-style: none;
+   text-transform: capitalize;
+ }
+
+ .menu-item {
+   text-decoration: none;
+   list-style: none;
+
+ }
+
+ .contact-menu {
+   text-decoration: none;
+   list-style: none;
+   text-transform: capitalize;
+ }
+
+ .menu-item {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 1.5;
+   color: #2e2f42;
+   letter-spacing: 0, 02em;
+   text-decoration: none;
+   list-style: none;
+   text-align: center;
+ }
+    .menu-item:active {
+      color: #404bbf;
+    }
+  
+    .menu-item:visited {
+      color: #404bbf;
+    }
+  
+    .menu-item:link {
+      color: #404bbf;
+    }
+  
+    .menu-item:hover {
+      color: #404bbf;
+    }
+  
+    .menu-item:focus {
+      text-decoration: none;
+    }
   
   /* our team */
   .team-menu {
@@ -84,145 +176,7 @@ line-height: 1,5;
     list-style: none;
     text-transform: capitalize;
   }
-  .logo
-  {
-    color: #4d5ae5;
-    list-style: none;
-    text-decoration: none;
-  }
-  /* title second section */
-  .title-second-section {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    color: #2e2f42;
-    letter-spacing: 0,02em;
-    text-decoration: none;
-    list-style: none;
-    text-transform: capitalize;
-  }
-  .second-section-p
-  {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color:#434455;
-    letter-spacing: 0,02em;
-    text-decoration: none;
-    list-style: none;
-    text-transform: capitalize;
-  }
-   
-   .skills-menu {
-    text-decoration: none;
-    list-style: none;
-    text-transform: capitalize; 
-  }
-  .menu-prtflio
-  {
-    text-decoration: none;
-    list-style: none;
-  }
-  .offers-menu-section
-  {
-    font-size: 20px;
-    letter-spacing: 0,02;
-    line-height: 1.2;
-    font-weight: 500;
-    text-decoration: none;
-    list-style: none;
-    text-transform: capitalize; 
-}
-
-  .menu-item {
-    text-decoration: none;
-    list-style: none;
-
-  }
-  
-  .contact-menu
-  {
-    text-decoration: none;
-    list-style: none;
-    text-transform: capitalize; 
-  }
-  .menu-item {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2e2f42;
-    letter-spacing: 0,02em;
-    text-decoration: none;
-    list-style: none;
-    text-align: center;
-  }
-  .menu-item:hover  {
-    color: #404bbf;
-  }
-  .menu-item:focus  {
-    color: #404bbf;
-  }
-  .menu-item:active  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-
-  .menu-item:hover  {
-    color: #404bbf;
-  }
-  .menu-item:focus  {
-   text-decoration: none;
-  }
+ 
  .contact-menu
   {
     text-decoration: none;
@@ -230,90 +184,6 @@ line-height: 1,5;
     text-align: left;
    
   }
-    .menu-item {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2e2f42;
-    letter-spacing: 0,02em;
-    text-decoration: none;
-    list-style: none;
-    text-align: left;
-  }
-  .menu-item:hover  {
-    color: #404bbf;
-  }
-  .menu-item:focus  {
-    color: #404bbf;
-  }
-  .menu-item:active  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-
-  .menu-item:hover  {
-    color: #404bbf;
-  }
-  .menu-item:focus  {
-   text-decoration: none;
-  }
-  .menu-item:active  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-  .menu-item:link  {
-    color: #404bbf;
-  }
-  .menu-item:visited  {
-    color: #404bbf;
-  }
-
-  .menu-item:hover  {
-    color: #404bbf;
-  }
-
-    
-    
 .first-menu-item {
   font-size: 16px;
   font-weight: 500;
@@ -386,7 +256,7 @@ menu{
     text-transform:uppercase ;
   }
   
-body{
+.body{
     background-color: #FFFFFF;
     color: #434455;
     font-family: "Roboto" , sans-serif;
@@ -431,10 +301,7 @@ body{
     
     
   } 
-  nav {
-    list-style: none;
-  }
-
+ 
    
 /* bottom logo */
     .bottom-logo {
