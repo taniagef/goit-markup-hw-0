@@ -60,6 +60,15 @@
                list-style: none;
                text-decoration: none;
              }
+ .body {
+   box-sizing: border-box;
+   font-family: "Roboto", sans-serif;
+   color:#434455;
+   background-color: #FFFFFF;
+   text-decoration: none;
+   list-style: none;
+   text-transform: capitalize;
+ }            
 
 /* main */
   .order-button{
