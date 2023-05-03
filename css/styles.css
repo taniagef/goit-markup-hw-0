@@ -176,7 +176,30 @@ line-height: 1,5;
     list-style: none;
     text-transform: capitalize;
   }
- 
+     .team-list {
+       list-style: none;
+     }
+  
+     .role {
+       font-size: 16px;
+       line-height: 1.5;
+       letter-spacing: 0, 02em;
+       color: #434455;
+       background-color: #FFFFFF;
+     }
+  
+     .name {
+       font-size: 20px;
+       line-height: 1.2;
+       letter-spacing: 0, 02em;
+       font-weight: 500;
+       color: #2e2f42;
+       background-color: #FFFFFF;
+       list-style: none;
+       text-decoration: none;
+       text-transform: capitalize;
+       text-align: center;
+     }
  .contact-menu
   {
     text-decoration: none;
@@ -393,7 +416,7 @@ color: #434455;
       list-style: none;
       text-decoration: none;
       letter-spacing: 0.02em;
-
+text-align: left;
     }
     .link:hover {
       color: #404bbf ;
@@ -428,31 +451,6 @@ color: #434455;
       text-align: center;
     }
 
-    .team-list
-    {
-      list-style: none;
-      }
-    .role
-    {
-      font-size: 16px;
-      line-height: 1.5;
-      letter-spacing: 0,02em;
-      color:#434455;
-     background-color: #FFFFFF;
-     }
-
-     .name {
-      font-size: 20px;
-      line-height: 1.2;
-      letter-spacing: 0,02em;
-      font-weight: 500;
-      color:#2e2f42;
-      background-color: #FFFFFF;
-      list-style: none;
-      text-decoration: none;
-      text-transform: capitalize;
-      text-align: center;
-      }
-    
+  
 
     
