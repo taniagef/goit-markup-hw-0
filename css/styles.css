@@ -60,7 +60,16 @@
     list-style: none;
     text-transform: capitalize; 
   }
-
+  .menu-prtflio
+  {
+    text-decoration: none;
+    list-style: none;
+  }
+.offers-menu
+  {
+    text-decoration: none;
+    list-style: none;
+  }
   .contact-menu
   {
     text-decoration: none;
@@ -140,6 +149,9 @@
 
   .menu-item:hover  {
     color: #404bbf;
+  }
+  .menu-item:focus  {
+   text-decoration: none;
   }
  
     
