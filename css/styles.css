@@ -7,8 +7,8 @@
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00
   } 
-  
-  .header-menu-item
+  /* header */
+.header-menu-item
   {
     font-size: 16px;
     font-weight: 500;
@@ -21,7 +21,39 @@
   text-decoration: none;
     text-align: left;
   }
-
+     /* logo */
+     .nav {
+       font-family: "Raleway", sans-serif;
+       font-size: 18px;
+       font-weight: 800;
+       line-height: 1.17;
+       color: #4d5ae5;
+       letter-spacing: 0, 03em;
+       text-align: left;
+       text-decoration: none;
+       letter-spacing: 0.03em;
+       text-transform: uppercase;
+       list-style: none;
+     }
+  
+     .nav-menu {
+       font-family: "Raleway", sans-serif;
+       font-size: 16px;
+       font-weight: 500;
+       line-height: 1.5;
+       color: #2e2f42;
+       letter-spacing: 0, 02em;
+       text-align: left;
+       text-decoration: none;
+       text-transform: uppercase;
+       list-style: none;
+     }
+  
+     .link {
+       list-style: none;
+       text-decoration: none;
+     }
+/* main */
   .order-button{
     font-family: inherit;
     cursor: pointer;
@@ -31,7 +63,7 @@ font-size: 16px;
 line-height: 1.5;
 color: #FFFFFF;
 letter-spacing:0,04em;
-JHjline-height: 1,5;
+line-height: 1,5;
   }
   .order-button:hover{
     background-color: #404bbf;
@@ -40,37 +72,7 @@ JHjline-height: 1,5;
     background-color: #404bbf;
   }
 
-   /* logo */
-    .nav {
-      font-family: "Raleway", sans-serif;
-      font-size: 18px;
-      font-weight: 800;
-      line-height: 1.17;
-      color:#4d5ae5;
-      letter-spacing: 0,03em;
-      text-align: left;
-      text-decoration: none;
-      letter-spacing: 0.03em;
-      text-transform: uppercase;
-      list-style: none;
-      }
-      .nav-menu
-      {
-        font-family: "Raleway", sans-serif;
-        font-size: 16px;
-        font-weight: 500;
-        line-height: 1.5;
-        color: #2e2f42;
-        letter-spacing: 0,02em;
-        text-align: left;
-        text-decoration: none;
-        text-transform: uppercase;
-        list-style: none;
-      }
-    .link {
-    list-style: none;
-    text-decoration: none;
-  }
+  
   /* our team */
   .team-menu {
     font-size: 36px;
