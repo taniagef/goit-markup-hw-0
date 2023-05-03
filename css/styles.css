@@ -33,6 +33,10 @@ color: #FFFFFF;
 letter-spacing:0,04em;
 line-height: 1,5;
   }
+  .order-button:hover{
+    background-color: #404bbf;
+  }
+
    /* logo */
     .nav {
       font-family: "Raleway", sans-serif;
