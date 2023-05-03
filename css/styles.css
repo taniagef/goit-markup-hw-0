@@ -79,6 +79,17 @@ line-height: 1,5;
     list-style: none;
     text-transform: capitalize;
   }
+  .second-section-p
+  {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color:#434455;
+    letter-spacing: 0,02em;
+    text-decoration: none;
+    list-style: none;
+    text-transform: capitalize;
+  }
    
    .skills-menu {
     text-decoration: none;
