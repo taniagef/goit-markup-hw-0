@@ -78,11 +78,24 @@ line-height: 1,5;
     text-decoration: none;
     list-style: none;
   }
-.offers-menu
+.offers-menu-section
   {
+    font-size: 20px;
+    letter-spacing: 0,02;
+    
+    line-height: 1.2;
+    font-weight: 500;
     text-decoration: none;
     list-style: none;
+    text-transform: capitalize; 
+}
+
+  .menu-item {
+    text-decoration: none;
+    list-style: none;
+
   }
+  
   .contact-menu
   {
     text-decoration: none;
