@@ -30,7 +30,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 color: #FFFFFF;
-letter-spacing: 0,04em;
+letter-spacing:0,04em;
 line-height: 1,5;
   }
    /* logo */
@@ -102,11 +102,10 @@ line-height: 1,5;
     text-decoration: none;
     list-style: none;
   }
-.offers-menu-section
+  .offers-menu-section
   {
     font-size: 20px;
     letter-spacing: 0,02;
-
     line-height: 1.2;
     font-weight: 500;
     text-decoration: none;
