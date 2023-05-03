@@ -68,10 +68,11 @@ line-height: 1,5;
     list-style: none;
     text-decoration: none;
   }
-  .title second section {
-    font-size: 36px;
+  /* title second section */
+  .title-second-section {
+    font-size: 20px;
     font-weight: 500;
-    line-height: 1.11;
+    line-height: 1.2;
     color: #2e2f42;
     letter-spacing: 0,02em;
     text-decoration: none;
