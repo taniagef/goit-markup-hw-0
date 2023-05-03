@@ -31,7 +31,7 @@ font-size: 16px;
 line-height: 1.5;
 color: #FFFFFF;
 letter-spacing:0,04em;
-line-height: 1,5;
+JHjline-height: 1,5;
   }
   .order-button:hover{
     background-color: #404bbf;
@@ -71,8 +71,9 @@ line-height: 1,5;
     list-style: none;
     text-transform: capitalize;
   }
-  .link-logo
+  .logo
   {
+    color: #4d5ae5;
     list-style: none;
     text-decoration: none;
   }
