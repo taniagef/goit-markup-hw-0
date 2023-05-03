@@ -68,6 +68,16 @@ line-height: 1,5;
     list-style: none;
     text-decoration: none;
   }
+  .title second section {
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.11;
+    color: #2e2f42;
+    letter-spacing: 0,02em;
+    text-decoration: none;
+    list-style: none;
+    text-transform: capitalize;
+  }
    .skills-menu {
     text-decoration: none;
     list-style: none;
