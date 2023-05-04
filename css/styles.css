@@ -56,6 +56,10 @@
        text-decoration: none;
      }
              .logo {
+              font-weight: 800;
+              font-size: 18px;
+              letter-spacing:0,03em ;
+              line-height: 1.17;
                color: #4d5ae5;
                list-style: none;
                text-decoration: none;
