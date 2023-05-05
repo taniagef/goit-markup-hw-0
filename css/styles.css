@@ -50,6 +50,12 @@
        text-transform: uppercase;
        list-style: none;
      }
+     .nav-menu:hover {
+       color: #404bbf;
+     }
+      .nav-menu:focus {
+        color: #404bbf;
+      }
   
      .link {
        list-style: none;
