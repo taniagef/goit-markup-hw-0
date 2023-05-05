@@ -16,7 +16,7 @@
     text-decoration: none;
   }
   /* header */
-  .adress {
+  .address {
     font-style: normal;
    }
 .header-menu-item
@@ -482,6 +482,11 @@ text-align: left;
       background-color: #FFFFFF;
       list-style: none;
       text-align: center;
+    }
+    .portfolio-address
+    {
+      font-style: normal;
+      list-style: none;
     }
 
   
