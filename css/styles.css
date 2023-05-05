@@ -100,28 +100,8 @@
     text-align: left;
   text-decoration: none;
 }
-.second-section-p
-{
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  color: #434455;
-  letter-spacing: 0,02em;
-  text-decoration: none;
-  list-style: none;
-  text-transform: capitalize;
-}
-.title-second-section
-{
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  color: #2e2f42;
-  letter-spacing: 0,02em;
-  text-decoration: none;
-  list-style: none;
-  text-transform: capitalize;
-}
+
+
 
 /* main */
   .order-button{
@@ -152,7 +132,6 @@ line-height: 1,5;
    list-style: none;
    text-transform: capitalize;
  }
-
  .second-section-p {
    font-size: 16px;
    font-weight: 500;
@@ -163,6 +142,7 @@ line-height: 1,5;
    list-style: none;
    text-transform: capitalize;
  }
+
  .menu-prtflio {
    text-decoration: none;
    list-style: none;
