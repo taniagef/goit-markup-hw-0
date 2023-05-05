@@ -100,9 +100,19 @@
     text-align: left;
   text-decoration: none;
 }
-.excellence-menu
+.second-section-p
 {
-  background-color: #4D5AE5;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #434455;
+  letter-spacing: 0,02em;
+  text-decoration: none;
+  list-style: none;
+  text-transform: capitalize;
+}
+.title-second-section
+{
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -110,7 +120,8 @@
   letter-spacing: 0,02em;
   text-decoration: none;
   list-style: none;
-  text-align: left;
+  text-transform: capitalize;
+}
 
 /* main */
   .order-button{
