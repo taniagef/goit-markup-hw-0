@@ -15,6 +15,9 @@
     text-decoration: none;
   }
   /* header */
+  .adress {
+    font-style: normal;
+   }
 .header-menu-item
   {
     font-size: 16px;
