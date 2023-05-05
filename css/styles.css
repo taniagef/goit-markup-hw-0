@@ -163,14 +163,12 @@ line-height: 1,5;
   }
  /* title second section */
  .title-second-section {
-   font-size: 36px;
+   font-size: 20px;
    font-weight: 500;
-   line-height: 1.11;
+   line-height: 1.2;
    color: #2e2f42;
    letter-spacing: 0,02em;
-   text-decoration: none;
    list-style: none;
-   text-transform: capitalize;
  }
  .second-section-p {
    font-size: 16px;
@@ -472,6 +470,17 @@ text-align: left;
     .offer-samples {
       list-style: none;
       text-decoration: none;
+      text-align: center;
+    }
+    /* third section */
+    .title-third-section
+    {
+      font-size: 36px;
+      line-height: 1.11;
+      letter-spacing: 0.02em;
+      color:#2e2f42;
+      background-color: #FFFFFF;
+      list-style: none;
       text-align: center;
     }
 
