@@ -85,15 +85,9 @@
     .second-upper-logo:hover {
       color: #404bbf;
     }
-   box-sizing: border-box;
-   font-family: "Roboto", sans-serif;
-   color:#434455;
-   background-color: #FFFFFF;
-   text-decoration: none;
-   list-style: none;
-   text-transform: capitalize;
- }            
-
+    .second-upper-logo:focus {
+      color: #404bbf;
+    }
 /* main */
   .order-button{
     font-family: inherit;
