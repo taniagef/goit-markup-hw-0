@@ -181,7 +181,7 @@ line-height: 1,5;
    text-transform: capitalize;
  }
 
- .menu-prtflio {
+ .menu-portfolio {
    text-decoration: none;
    list-style: none;
  }
@@ -194,12 +194,6 @@ line-height: 1,5;
    text-decoration: none;
    list-style: none;
    text-transform: capitalize;
- }
-
- .menu-item {
-   text-decoration: none;
-   list-style: none;
-
  }
 
  .contact-menu {
@@ -490,6 +484,7 @@ text-align: left;
     }
     .button-portfolio
     {
+      font-family: "Roboto", sans-serif ;
       letter-spacing: 0.02em;
       line-height: 1.5;
       font-weight: 500;
