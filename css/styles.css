@@ -7,6 +7,7 @@
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00
    var(--secondary-text-color-theme-light)     #2e2f42
+    var(--secondary-text-color-theme-light) #434455
   } 
   .list {
     list-style: none;
@@ -162,11 +163,11 @@ line-height: 1,5;
   }
  /* title second section */
  .title-second-section {
-   font-size: 20px;
+   font-size: 36px;
    font-weight: 500;
-   line-height: 1.2;
+   line-height: 1.11;
    color: #2e2f42;
-   letter-spacing: 0, 02em;
+   letter-spacing: 0,02em;
    text-decoration: none;
    list-style: none;
    text-transform: capitalize;
