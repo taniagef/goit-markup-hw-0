@@ -499,6 +499,7 @@ text-align: left;
       list-style: none;
       text-decoration: none;
       text-align: center;
+      cursor: pointer;
     }
     .button-portfolio:hover
     {
