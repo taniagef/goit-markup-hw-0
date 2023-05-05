@@ -488,6 +488,28 @@ text-align: left;
       font-style: normal;
       list-style: none;
     }
+    .button-portfolio
+    {
+      letter-spacing: 0.02em;
+      line-height: 1.5;
+      font-weight: 500;
+      font-size: 16px;
+      background-color:#F4F4FD;
+      color:#4d5ae5 ;
+      list-style: none;
+      text-decoration: none;
+      text-align: center;
+    }
+    .button-portfolio:hover
+    {
+      background-color: #404bbf ;
+      color: #FFFFFF;
+    }
+    .button-portfolio:focus
+    {
+      background-color: #404bbf ;
+      color: #FFFFFF;
+    }
 
   
 
