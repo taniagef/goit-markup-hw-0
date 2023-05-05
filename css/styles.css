@@ -130,6 +130,12 @@
     text-align: left;
   text-decoration: none;
 }
+.header-menu-item:hover {
+  color: #404bbf;
+}
+.header-menu-item:focus {
+  color: #404bbf;
+}
 
 
 
