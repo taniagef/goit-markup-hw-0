@@ -7,6 +7,12 @@
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00
   } 
+  .list {
+    list-style: none;
+  }
+  link {
+    text-decoration: none;
+  }
   /* header */
 .header-menu-item
   {
@@ -21,6 +27,14 @@
   text-decoration: none;
     text-align: left;
   }
+  .menu-item
+  {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2e2f42;
+    letter-spacing: 0,02em;}
+
      /* logo */
      .nav {
        font-family: "Raleway", sans-serif;
