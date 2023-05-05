@@ -54,16 +54,21 @@
      .link {
        list-style: none;
        text-decoration: none;
+       font-size: 50px;
      }
-             .logo {
-              font-weight: 800;
-              font-size: 18px;
-              letter-spacing:0,03em ;
-              line-height: 1.17;
-               color: #4d5ae5;
-               list-style: none;
-               text-decoration: none;
-             }
+                        .logo {
+                          font-family: "Raleway", sans-serif;
+                          font-size: 18px;
+                          font-weight: 800;
+                          line-height: 1.17;
+                          color: #4d5ae5;
+                          letter-spacing: 0, 03em;
+                          text-align: left;
+                          text-decoration: none;
+                          letter-spacing: 0.03em;
+                          text-transform: uppercase;
+                          list-style: none;
+                          text-decoration: none;
  .body {
    box-sizing: border-box;
    font-family: "Roboto", sans-serif;
@@ -114,13 +119,6 @@ line-height: 1,5;
    list-style: none;
    text-transform: capitalize;
  }
-
- .skills-menu {
-   text-decoration: none;
-   list-style: none;
-   text-transform: capitalize;
- }
-
  .menu-prtflio {
    text-decoration: none;
    list-style: none;
@@ -252,25 +250,13 @@ line-height: 1,5;
 .second-menu-item:focus  {
   color: #404bbf;
 }
-menu{
+.menu
+{
   text-decoration: none;
   list-style: none;
 }
 
 
-.logo {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 800;
-    line-height: 1.17;
-    color:#4d5ae5;
-    letter-spacing: 0,03em;
-    text-align: left;
-    text-decoration: none;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    list-style: none;
-    text-decoration: none;
   }
   .logo:hover {
     color:  #4d5ae5;
@@ -393,17 +379,6 @@ line-height: 1,5;
 color: #434455;
 
 }
-
-  
-  .link{
-      font-size: 1.2rem;
-      font-weight: 300;
-      line-height: 1.5;
-      color: #4d5ae5;
-      background-color: #FFFFFF;
-      list-style: none;
-      text-decoration: none;
-    }
    
     .link:hover {
       color: #404bbf ;
@@ -431,21 +406,8 @@ color: #434455;
       letter-spacing: 0.02em;
 text-align: left;
     }
-    .link:hover {
-      color: #404bbf ;
-      background-color: #FFFFFF;
-      list-style: none;
-      text-decoration: none;
-    }
-    link:focus {
-      color: #404bbf ;
-      background-color: #FFFFFF;
-      list-style: none;
-      text-decoration: none;
-    }
 
-    
-    /* team photos */
+     /* team photos */
     .team-menu {
       font-size: 36x;
       line-height: 1.11;
