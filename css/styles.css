@@ -69,6 +69,7 @@
       text-transform: uppercase;
       list-style: none;
       text-decoration: none;
+    }
     
       .second-upper-logo {
     font-size: 20px;
@@ -88,6 +89,18 @@
     .second-upper-logo:focus {
       color: #404bbf;
     }
+     .header-menu-item {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #2e2f42;
+    letter-spacing: 0,02em;
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+  text-decoration: none;
+}
+
 /* main */
   .order-button{
     font-family: inherit;
