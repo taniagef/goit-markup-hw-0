@@ -12,9 +12,10 @@
   .list {
     list-style: none;
   }
-  link {
-    text-decoration: none;
-  }
+    .link {
+      list-style: none;
+      text-decoration: none;
+    }
   /* header */
   .address {
     font-style: normal;
@@ -76,21 +77,8 @@
       .nav-menu:focus {
         color: #404bbf;
       }
-      .list
-      {font-weight: 500;
-        line-height: 1.5;
-        color: #2e2f42;
-        letter-spacing: 0, 02em;
-        font-size: 16px;
-        list-style: none;
-      }
-
   
-     .link {
-       list-style: none;
-       text-decoration: none;
-       font-size: 50px;
-     }
+     
      .logo {
       font-family: "Raleway", sans-serif;
       font-size: 18px;
@@ -176,10 +164,7 @@ line-height: 1,5;
    font-weight: 500;
    line-height: 1.5;
    color: #434455;
-   letter-spacing: 0, 02em;
-   text-decoration: none;
-   list-style: none;
-   text-transform: capitalize;
+   letter-spacing: 0.02em;
  }
 
  .menu-portfolio {
