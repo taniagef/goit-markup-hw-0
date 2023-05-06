@@ -64,13 +64,17 @@
        font-size: 18px;
        font-weight: 800;
        line-height: 1.17;
-       color: #4d5ae5;
        letter-spacing: 0.03em;
         text-decoration: none;
         text-transform: uppercase;
-      var(--secondary-text-color-theme-light) #2e2f42
-
-     }
+       color:#2e2f42 ; 
+      }
+      .nav-menu:hover {
+        color: #404bbf;
+      }
+      .nav-menu:focus {
+        color: #404bbf;
+      }
      
      .nav-menu:hover {
        color: #404bbf;
