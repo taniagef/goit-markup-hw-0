@@ -463,6 +463,9 @@ text-align: left;
       text-align: center;
 
     }
+    .team-menu-item {
+      background-color: #FFFFFF;
+      }
     .offer-samples {
       list-style: none;
       text-decoration: none;
