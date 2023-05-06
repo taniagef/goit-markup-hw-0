@@ -65,10 +65,7 @@
        font-weight: 500;
        line-height: 1.5;
        color: #2e2f42;
-       letter-spacing: 0, 02em;
-       text-align: left;
-       text-decoration: none;
-       text-transform: uppercase;
+       letter-spacing: 0.02em;
        list-style: none;
      }
      .nav-menu:hover {
@@ -396,9 +393,8 @@ line-height: 1,5;
 color: #434455;
 
 }
-   
-    .link:hover {
-      color: #404bbf ;
+   .link:hover {
+      color:#404bbf ;
       background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
