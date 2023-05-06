@@ -179,7 +179,6 @@ line-height: 1,5;
  }
  .second-section-p {
    font-size: 16px;
-   font-weight: 500;
    line-height: 1.5;
    color: #434455;
    letter-spacing: 0.02em;
@@ -510,6 +509,17 @@ text-align: left;
     {
       background-color: #404bbf ;
       color: #FFFFFF;
+    }
+    .excellence-menu-item
+    {
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      color:#2e2f42;
+      list-style: none;
+      text-decoration: none;
+      text-align: left;
     }
 
   
