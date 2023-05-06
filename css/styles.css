@@ -461,9 +461,9 @@ text-align: left;
       line-height: 1.11;
       letter-spacing: 0.02em;
       color:#2e2f42;
-      background-color: #FFFFFF;
       list-style: none;
       text-align: center;
+      text-transform: capitalize;
     }
     .portfolio-address
     {
