@@ -101,13 +101,19 @@
       font-size: 18px;
       font-weight: 800;
       line-height: 1.17;
-      color: #4d5ae5;
+      color: #2e2f42;  ;
       text-align: left;
       text-decoration: none;
       letter-spacing: 0.03em;
       text-transform: uppercase;
       list-style: none;
       text-decoration: none;
+    }
+    .logo:hover {
+      color: #404bbf;
+    }
+    .logo:focus {
+      color: #404bbf;
     }
     
       .second-upper-logo {
