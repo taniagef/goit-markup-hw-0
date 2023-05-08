@@ -67,12 +67,6 @@
         text-transform: uppercase;
        color:#2e2f42 ; 
       }
-      .nav-menu:hover {
-        color: #404bbf;
-      }
-      .nav-menu:focus {
-        color: #404bbf;
-      }
       .first-menu-item {
         font-family: "Raleway", sans-serif;
         font-size: 16px;
