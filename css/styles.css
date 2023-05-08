@@ -252,38 +252,6 @@ line-height: 1.5;
     text-align: left;
    
   }
-.first-menu-item {
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  color: #2e2f42;
-  letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style: none;
-
-}
-.first-menu-item:hover  {
-  color: #404bbf;
-}
-.first-menu-item:focus  {
-  color: #404bbf;
-}
-
-.second-menu-item {
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  color:#404bbf;
-  letter-spacing: 0.02em;
-  text-decoration: none;
-  list-style: none;
-}
-.second-menu-item:hover  {
-  color: #404bbf;
-}
-.second-menu-item:focus  {
-  color: #404bbf;
-}
 .menu
 {
   text-decoration: none;
@@ -303,25 +271,28 @@ line-height: 1.5;
     text-decoration: none;  
   }
   
-    /* hero section */
-    .second-menu-title {
-      font-size: 56px;
-      font-weight: 300;
-      line-height: 1.07;
-      letter-spacing: 0.02em;
-      color:#FFFFFF;
-      background-color:#2e2f42;
-      list-style: none;
-      text-decoration: none;
-      text-transform: uppercase;
-    }
+    
 /* hero=title */
    .hero-title{
       font-size: 56px;
       font-weight: 300;
       line-height: 1.07;
       letter-spacing: 0.02em;
+      color: #FFFFFF;
+      background-color: #2e2f42;
      
+    }
+    .second-menu-title {
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 1.5;
+       color: #2e2f42;
+      letter-spacing: 0.02em;
+      text-decoration: none;
+      list-style: none;
+      text-align: left;
+      background-color: #2e2f42;
+      text-align: center;
     }
     
   /* main section */
