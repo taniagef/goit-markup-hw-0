@@ -528,6 +528,17 @@ text-align: left;
       text-align: center;
     }
 
-  
+    /* portfolio */
+.portfolio-nav {
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.17;
+  color:#2e2f42;
+  background-color: #FFFFFF;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-transform:uppercase ;
 
+}
     
