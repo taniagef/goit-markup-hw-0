@@ -94,20 +94,17 @@
       .nav-menu:focus {
         color: #404bbf;
       }
-  
-     
-     .logo {
-      font-family: "Raleway", sans-serif;
+    .logo {
+      font-family: Raleway, sans-serif;
       font-size: 18px;
       font-weight: 800;
       line-height: 1.17;
-      color: #2e2f42;  ;
-      text-align: left;
-      text-decoration: none;
+      color: #4d5ae5;
+      background-color: #FFFFFF;
       letter-spacing: 0.03em;
+      text-align: left;
       text-transform: uppercase;
-      list-style: none;
-      text-decoration: none;
+  
     }
     .logo:hover {
       color: #404bbf;
@@ -115,6 +112,10 @@
     .logo:focus {
       color: #404bbf;
     }
+
+     
+    
+   
     
       .second-upper-logo {
     font-size: 20px;
@@ -308,13 +309,6 @@ line-height: 1.5;
   text-decoration: none;
   list-style: none;
 }
-
-  .logo:hover {
-    color:  #4d5ae5;
-    list-style: none;
-    text-decoration: none;
-  }
-
  
 .body{
     background-color: #FFFFFF;
@@ -529,16 +523,5 @@ text-align: left;
     }
 
     /* portfolio */
-.logo {
-  font-family: Raleway, sans-serif;
-  font-size: 18px;
-  font-weight: 800;
-  line-height: 1.17;
-  color: #4d5ae5;
-  background-color: #FFFFFF;
-  letter-spacing: 0.03em;
-  text-align: left;
-  text-transform:uppercase ;
 
-}
     
