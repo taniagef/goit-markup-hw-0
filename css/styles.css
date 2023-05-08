@@ -480,30 +480,7 @@ text-align: left;
       font-style: normal;
       list-style: none;
     }
-    .button-portfolio
-    {
-      font-family: "Roboto", sans-serif ;
-      letter-spacing: 0.02em;
-      line-height: 1.5;
-      font-weight: 500;
-      font-size: 16px;
-      background-color:#F4F4FD;
-      color:#4d5ae5 ;
-      list-style: none;
-      text-decoration: none;
-      text-align: center;
-      cursor: pointer;
-    }
-    .button-portfolio:hover
-    {
-      background-color: #404bbf ;
-      color: #FFFFFF;
-    }
-    .button-portfolio:focus
-    {
-      background-color: #404bbf ;
-      color: #FFFFFF;
-    }
+   
     .excellence-menu-item
     {
       font-size: 20px;
@@ -517,5 +494,28 @@ text-align: left;
     }
 
     /* portfolio */
+    .button-portfolio
+    {
+      font-family: "Roboto", sans-serif ;
+      letter-spacing: 0.04em;
+      line-height: 1.5;
+      font-weight: 500;
+      font-size: 16px;
+      background-color:#F4F4FD;
+      color:#4d5ae5 ;
+      list-style: none;
+      text-decoration: none;
+      text-align: center;
+      cursor: pointer;
+    }
+         .button-portfolio:hover {
+           background-color: #404bbf;
+           color: #FFFFFF;
+         }
+    
+         .button-portfolio:focus {
+           background-color: #404bbf;
+           color: #FFFFFF;
+         }
 
     
