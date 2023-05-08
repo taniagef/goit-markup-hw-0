@@ -474,5 +474,10 @@ text-align: left;
            background-color: #404bbf;
            color: #FFFFFF;
          }
-
+         /* portfolio offers menu */
+.offers-menu
+{
+  list-style: none;
+ 
+}
     
