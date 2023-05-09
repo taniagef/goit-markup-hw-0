@@ -6,7 +6,7 @@
  --secondary-text-color-theme-dark: #9ba4bd;
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00
-   
+   var(--main-font-family):#2e2f42;
   } 
   .list {
     list-style: none;
@@ -480,4 +480,12 @@ text-align: left;
   list-style: none;
  
 }
+.offer-samples
+{
+  color: var(--main-font-family) #2e2f42;
+  list-style: none;
+  text-decoration: none;
+  text-align: center;
+}
+
     
