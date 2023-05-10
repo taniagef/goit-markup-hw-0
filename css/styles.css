@@ -483,10 +483,13 @@ text-align: left;
 }
 .offer-samples
 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: var(--main-font-family) #2e2f42;
   list-style: none;
   text-decoration: none;
   text-align: center;
 }
 
-    
