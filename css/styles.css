@@ -7,7 +7,7 @@
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00
    var(--main-font-family):#2e2f42;
-    
+  --primary-color-theme-dark: #4d5ae5;
   } 
   .list {
     list-style: none;
