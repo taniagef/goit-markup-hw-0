@@ -467,12 +467,12 @@ text-align: left;
       cursor: pointer;
     }
          .button-portfolio:hover {
-           background-color: #404bbf;
+           background-color:#404BBF;
            color: #FFFFFF;
          }
     
          .button-portfolio:focus {
-           background-color: #404bbf;
+           background-color:#404BBF;
            color: #FFFFFF;
          }
          /* portfolio offers menu */
