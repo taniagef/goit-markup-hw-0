@@ -66,7 +66,7 @@
        color: #2e2f42;
        font-weight: 500;
         line-height: 1.5;
-       letter-spacing: 0.02em;
+       letter-spacing: 0.02em;#434455
       }
      menu:hover {
        color: #404bbf;
@@ -76,6 +76,12 @@
       }
       .address{
        color: #434455;
+      }
+      address:hover {
+        color: #404bbf;
+      }
+      address:focus {
+        color: #404bbf;
       }
     .logo:hover {
       color: #404bbf;
