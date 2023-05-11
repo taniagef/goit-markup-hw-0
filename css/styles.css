@@ -32,14 +32,14 @@
   text-decoration: none;
     text-align: left;
   }
-  .menu-item
-  {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2e2f42;
-    letter-spacing: 0.02em;}
-
+.menu-item {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #434455;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
      /* logo */
      
      nav {
@@ -161,17 +161,6 @@ line-height: 1.5;
    text-transform: capitalize;
  }
 
- .menu-item {
-   font-size: 16px;
-   font-weight: 500;
-   line-height: 1.5;
-   color:#434455 ;
-   letter-spacing: 0.02em;
-   text-decoration: none;
-   list-style: none;
-   text-align: center;
- }
-  
   /* our team */
   .team-list {
        list-style: none;
@@ -204,12 +193,7 @@ line-height: 1.5;
     text-align: left;
    
   }
-.menu
-{
-  text-align: center;
-  text-decoration: none;
-  list-style: none;
-}
+
 address
  
 .body{
