@@ -206,6 +206,7 @@ line-height: 1.5;
   }
 .menu
 {
+  text-align: center;
   text-decoration: none;
   list-style: none;
 }
