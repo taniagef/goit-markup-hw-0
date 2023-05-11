@@ -59,34 +59,17 @@
      }
      nav {
        list-style: none;
+       
      }
      /* nav-menu */
-     .nav-menu {
-       font-family: "Raleway", sans-serif;
-       font-size: 16px;
-       font-weight: 500;
-       line-height: 1.5;
-       letter-spacing: 0.02em;
-        text-decoration: none;
-        text-transform: uppercase;
-       color:#2e2f42 ; 
-      }
-     
-     .nav-menu:hover {
-       color: #404bbf;
-     }
-      .nav-menu:focus {
-        color: #404bbf;
-      }
+
     .logo {
       font-family: Raleway, sans-serif;
       font-size: 18px;
       font-weight: 800;
       line-height: 1.17;
       color: #4d5ae5;
-      background-color: #FFFFFF;
       letter-spacing: 0.03em;
-      text-align: left;
       text-transform: uppercase;
   
     }
@@ -102,34 +85,14 @@
    
     
       .second-upper-logo {
-    font-size: 20px;
-      font-weight: 500;
-      line-height: 1.17;
-      font-family: "Raleway", sans-serif;
-      color: #2e2f42;
-      list-style: none;
-      text-decoration: none;
-      text-align: center;
-      letter-spacing: 0.03em;
-      text-transform: uppercase;
-    }               
+   color: #2e2f42;
+       }               
     .second-upper-logo:hover {
       color: #404bbf;
     }
     .second-upper-logo:focus {
       color: #404bbf;
     }
-     .header-menu-item {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-    text-decoration: none;
-    list-style: none;
-    text-align: left;
-  text-decoration: none;
-}
 .header-menu-item:hover {
   color: #404bbf;
 }
@@ -279,7 +242,7 @@ line-height: 1.5;
 /* hero=title */
    .hero-title{
       font-size: 56px;
-      font-weight: 300;
+      font-weight: 700;
       line-height: 1.07;
       letter-spacing: 0.02em;
       color: #FFFFFF;
