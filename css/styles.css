@@ -1,6 +1,4 @@
 :root {
- --main-font-family: "Roboto", sans-serif;
-  --secondary-font-family: "Raleway", sans-serif;
   --primary-text-text-color-theme-dark: #FFFFFF;
   --primary-text-text-color-theme-light: #303030;
  --secondary-text-color-theme-dark: #9ba4bd;
@@ -216,15 +214,10 @@ address
 .body{
     background-color: #FFFFFF;
     color: #434455;
-    font-family: "Roboto" 
-    , sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    text-decoration: none;  
   }
   
     
