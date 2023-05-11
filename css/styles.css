@@ -21,6 +21,7 @@
    }
 .header-menu-item
   {
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -191,11 +192,20 @@ line-height: 1.5;
     text-decoration: none;
     list-style: none;
     text-align: left;
-   
-  }
+   }
 
-address
- 
+.address
+  {
+    color: #434455;
+   }
+address:hover
+  {
+    color: #404bbf;
+   }
+address:focus
+  {
+    color: #404bbf;
+   }
 .body{
     background-color: #FFFFFF;
     color: #434455;
