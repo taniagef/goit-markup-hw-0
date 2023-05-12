@@ -5,8 +5,8 @@
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00;
   --primary-color-theme-dark: #4d5ae5;
-  --color: (--main-font-family)  #2e2f42;
-  color: var(--main-font-family) #434455;
+  --color: var(--main-font-family)  #2e2f42;
+  --color: var(--main-font-family) #434455;
    } 
   .list {
     list-style: none;
@@ -22,8 +22,7 @@
        font-style: normal;
      }
 .address:hover {
-
-  color: #404bbf;
+color: #404bbf;
 }
 .address:focus {
   color: #404bbf;
