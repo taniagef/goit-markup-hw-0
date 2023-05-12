@@ -19,13 +19,15 @@
   .address {
     font-style: normal;
    }
+     .address {
+       color: #434455;
+     }
 address:hover {
   color: #404bbf;
 }
 address:focus {
   color: #404bbf;
 }
-.menu-item
 
 .menu-item {
   font-size: 16px;
@@ -47,8 +49,6 @@ address:focus {
       color: #4d5ae5;
       letter-spacing: 0.03em;
       text-transform: uppercase;
-      text-decoration: none;
-      list-style: none;
       }
       .menu {
         font-size: 16px;
@@ -57,27 +57,13 @@ address:focus {
         line-height: 1.5;
        letter-spacing: 0.02em;#434455
       }
-      .menu-item:hover {
-        color: #404bbf;
-      }
-      .menu-item:focus {
-        color: #404bbf;
-      }
      menu:hover {
        color: #404bbf;
      }
       menu:focus {
         color: #404bbf;
       }
-      .address{
-       color: #434455;
-      }
-      address:hover {
-        color: #404bbf;
-      }
-      address:focus {
-        color: #404bbf;
-      }
+      
     .logo:hover {
       color: #404bbf;
     }
