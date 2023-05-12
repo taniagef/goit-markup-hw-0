@@ -16,16 +16,13 @@
       text-decoration: none;
     }
   /* header */
-  .address {
-    font-style: normal;
-   }
      .address {
        color: #434455;
      }
-address:hover {
+.address:hover {
   color: #404bbf;
 }
-address:focus {
+.address:focus {
   color: #404bbf;
 }
 
@@ -57,10 +54,10 @@ address:focus {
         line-height: 1.5;
        letter-spacing: 0.02em;#434455
       }
-     menu:hover {
+     .menu:hover {
        color: #404bbf;
      }
-      menu:focus {
+     .menu:focus {
         color: #404bbf;
       }
       
@@ -176,18 +173,6 @@ line-height: 1.5;
     text-align: left;
    }
 /*  */
-.address
-  {
-    color: #434455;
-   }
-.address:hover
-  {
-    color: #404bbf;
-   }
-.address:focus
-  {
-    color: #404bbf;
-   }
 
 .body{
     background-color: #FFFFFF;
