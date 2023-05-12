@@ -19,20 +19,14 @@
   .address {
     font-style: normal;
    }
-.header-menu-item
-  {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2e2f42;
-    letter-spacing: 0.02em;
-    text-decoration: none;
-    list-style: none;
-    text-align: left;
-  text-decoration: none;
-    text-align: left;
-  }
+address:hover {
+  color: #404bbf;
+}
+address:focus {
+  color: #404bbf;
+}
+.menu-item
+
 .menu-item {
   font-size: 16px;
   font-weight: 500;
@@ -43,10 +37,6 @@
 }
      /* logo */
      
-     nav {
-       list-style: none;
-       
-     }
      /* nav-menu */
 
     .logo {
@@ -66,6 +56,12 @@
        font-weight: 500;
         line-height: 1.5;
        letter-spacing: 0.02em;#434455
+      }
+      .menu-item:hover {
+        color: #404bbf;
+      }
+      .menu-item:focus {
+        color: #404bbf;
       }
      menu:hover {
        color: #404bbf;
