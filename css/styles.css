@@ -175,19 +175,20 @@ line-height: 1.5;
     list-style: none;
     text-align: left;
    }
-
+/*  */
 .address
   {
     color: #434455;
    }
-address:hover
+.address:hover
   {
     color: #404bbf;
    }
-address:focus
+.address:focus
   {
     color: #404bbf;
    }
+
 .body{
     background-color: #FFFFFF;
     color: #434455;
@@ -293,17 +294,7 @@ color: #F4F4FD;
       background-color: #404BBF;
       color: #FFFFFF;
     }
-    .menu-item {
-      font-size: 16px;
-      font-weight: 500;
-      line-height: 1.5;
-      color:#2e2f42;
-      background-color: #FFFFFF;
-      list-style: none;
-      text-decoration: none;
-      letter-spacing: 0.02em;
-text-align: left;
-    }
+  
 
      /* team photos */
      .team-menu-section
@@ -392,11 +383,6 @@ text-align: left;
            color: #FFFFFF;
          }
          /* portfolio offers menu */
-.offers-menu
-{
-  list-style: none;
- 
-}
 .offers-samples
 {
   font-weight: 500;
