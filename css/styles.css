@@ -18,8 +18,10 @@
   /* header */
      .address {
        color: #434455;
+       font-style: normal;
      }
 .address:hover {
+
   color: #404bbf;
 }
 .address:focus {
