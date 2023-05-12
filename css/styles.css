@@ -4,10 +4,8 @@
  --secondary-text-color-theme-dark: #9ba4bd;
   --secondary-text-color-theme-light: #555555;
   --accent-color:#fff6c00;
-  --secondary-font-family:#2e2f42;
   --primary-color-theme-dark: #4d5ae5;
-  --primary-color-theme-light: #434455;
-  --secondary-color-theme-dark: #2e2f42;
+  --color: (--main-font-family)  #2e2f42;
   color: var(--main-font-family) #434455;
    } 
   .list {
