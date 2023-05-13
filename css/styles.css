@@ -50,7 +50,8 @@ color: #404bbf;
        color: #2e2f42;
        font-weight: 500;
         line-height: 1.5;
-       letter-spacing: 0.02em;#434455
+       letter-spacing: 0.02em;
+       color: #434455;
       }
      .menu:hover {
        color: #404bbf;
@@ -311,7 +312,6 @@ color: #F4F4FD;
       list-style: none;
       text-decoration: none;
       text-align: center;
-      v
     }
     /* third section */
     .title-third-section
@@ -377,7 +377,7 @@ color: #F4F4FD;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--main-font-family) #2e2f42;
+  color: #2e2f42;
   list-style: none;
   text-decoration: none;
   text-align: center;
@@ -387,6 +387,6 @@ color: #F4F4FD;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--main-font-family) #434455;
+  color: #434455;
   text-align: center;
 }
