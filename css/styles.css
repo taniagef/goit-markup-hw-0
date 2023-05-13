@@ -1,13 +1,13 @@
 :root {
   --primary-text-text-color-theme-dark: #FFFFFF;
-  --color: var(--font-family): #2e2f42;
-  --color: var(--font-family): #434455;
+accent-color: fff6c00;
+  --color: #2e2f42;
+  --color: #434455;
    } 
   .list {
     list-style: none;
   }
-    .link {
-      list-style: none;
+    .link 
       text-decoration: none;
     }
   /* header */
