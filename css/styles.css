@@ -12,15 +12,16 @@
       text-decoration: none;
     }
   /* header */
-     .address 
+     .contact
      {
+      font-weight: 400;
        color: #434455;
        font-style: normal;
      }
-.address:hover {
+.contact:hover {
 color: #404bbf;
 }
-.address:focus {
+.contact:focus {
   color: #404bbf;
 }
 
@@ -217,13 +218,7 @@ line-height: 1.5;
  /* footer */
    
 /* bottom logo */
-    .bottom-logo {
-      font-family: "Raleway", sans-serif;
-      font-size: 18px;
-      font-weight: 800;
-      line-height: 1.17;
-      letter-spacing: 0.03em;
-      color: #FFFFFF;
+    .bottom-logo-s {
       background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
@@ -234,7 +229,7 @@ line-height: 1.5;
 /* WEB */
     .bottom-logo {
       font-family: "Raleway", sans-serif;
-      font-size: 18x;
+      font-size:18px;
       font-weight: 800;
      line-height: 1.17;
       color:#4d5ae5;
@@ -248,21 +243,13 @@ line-height: 1.5;
     }
     /*STUDIO */
     .second-bottom-logo
-    {
-      font-size: 20px;
-      font-weight: 500;
-      line-height: 1.17;
-      font-family: "Raleway", sans-serif;
-      color:#F4F4FD;
+    {color:#F4F4FD;
       background-color: #2e2f42;
       list-style: none;
-      text-decoration: none;
-      text-align:left;
-      letter-spacing: 0.03em;
-      text-transform:uppercase ;
     }
     
 .promotion-slogan {
+  font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 color: #F4F4FD;
