@@ -264,9 +264,7 @@ color: #F4F4FD;
       background-color: #404BBF;
       color: #FFFFFF;
     }
-  
-
-     /* team photos */
+  /*  */
      .team-menu-section
       {
         font-size: 36px;
@@ -310,12 +308,6 @@ color: #F4F4FD;
       text-align: center;
       text-transform: capitalize;
     }
-    .portfolio-address
-    {
-      font-style: normal;
-      list-style: none;
-    }
-   
     .excellence-menu-item
     {
       font-size: 20px;
@@ -329,10 +321,7 @@ color: #F4F4FD;
     }
 
     /* portfolio */
-    .portfolio-address
-    {
-      font-style: normal;
-    }
+  
     .button-portfolio
     {
       font-family: "Roboto", sans-serif ;
