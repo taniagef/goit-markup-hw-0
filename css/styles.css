@@ -114,6 +114,7 @@ line-height: 1.5;
  }
  .second-section-p {
    font-size: 16px;
+   font-weight: 400;
    line-height: 1.5;
    color: #434455;
    letter-spacing: 0.02em;
@@ -137,7 +138,7 @@ line-height: 1.5;
  .contact-menu {
    text-decoration: none;
    list-style: none;
-   text-transform: capitalize;
+   
  }
 
   /* our team */
@@ -222,7 +223,6 @@ line-height: 1.5;
       background-color: #2e2f42;
       list-style: none;
       text-decoration: none;
-      text-transform: uppercase;
       text-align: left;
      }
 
