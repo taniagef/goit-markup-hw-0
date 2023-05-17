@@ -16,7 +16,6 @@
      {
       font-weight: 400;
        color: #434455;
-       font-style: normal;
      }
 .contact:hover {
 color: #404bbf;
@@ -248,12 +247,12 @@ line-height: 1.5;
       list-style: none;
     }
     
-.promotion-slogan {
+.promotion-slogan 
+{
   font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 color: #F4F4FD;
-
 }
     .button:hover
     {
@@ -319,8 +318,7 @@ color: #F4F4FD;
       text-decoration: none;
       text-align: center;
     }
-
-    /* portfolio */
+   /* portfolio */
   
     .button-portfolio
     {
